@@ -5,4 +5,4 @@ import machine
 
 print('**************adding from pythonA')
 print('**************this is a demo *******')
-print('**************master adding *****8888*')
+print('**************master adding ******')
